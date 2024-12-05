@@ -1,0 +1,801 @@
+city,country,population_2023
+Tokyo,Japan,37194100
+Delhi,India,32941300
+Shanghai,China,29210800
+Dhaka,Bangladesh,23209600
+São Paulo,Brazil,22619700
+Cairo,Egypt,22183200
+Mexico City,Mexico,22281400
+Beijing,China,21766200
+Mumbai,India,21296500
+Osaka,Japan,19013400
+Chongqing,China,17340700
+Karachi,Pakistan,17236200
+Kinshasa,DR Congo,16315500
+Lagos,Nigeria,15945900
+Istanbul,Turkey,15847800
+Buenos Aires,Argentina,15490400
+Kolkata,India,15332800
+Manila,Philippines,14667100
+Guangzhou,China,14284400
+Tianjin,China,14238600
+Lahore,Pakistan,13979400
+Bengaluru,India,13607800
+Rio de Janeiro,Brazil,13727700
+Shenzhen,China,13072600
+Moscow,Russia,12680400
+Chennai,India,11776100
+Bogota,Colombia,11508000
+Jakarta,Indonesia,11248800
+Lima,Peru,11204400
+Paris,France,11208400
+Bangkok,Thailand,11070000
+Hyderabad,India,10801200
+Seoul,South Korea,9988050
+Nanjing,China,9698460
+Chengdu,China,9653770
+London,United Kingdom,9648110
+Luanda,Angola,9292340
+Tehran,Iran,9499780
+Ho Chi Minh City,Vietnam,9320870
+Nagoya,Japan,9569330
+Xi'an,China,8785170
+Ahmedabad,India,8650600
+Wuhan,China,8718250
+Kuala Lumpur,Malaysia,8621720
+Hangzhou,China,8237210
+Suzhou,China,8074030
+Surat,India,8064950
+Dar es Salaam,Tanzania,7775860
+New York City,United States,8258035
+Baghdad,Iraq,7711300
+Shenyang,China,7680970
+Riyadh,Saudi Arabia,7682430
+Hong Kong,Hong Kong,7684800
+Foshan,China,7597390
+Dongguan,China,7587050
+Pune,India,7166370
+Santiago,Chile,6903390
+Harbin,China,6803810
+Madrid,Spain,6751370
+Khartoum,Sudan,6344350
+Toronto,Canada,6371960
+Johannesburg,South Africa,6198020
+Belo Horizonte,Brazil,6247890
+Dalian,China,6078000
+Singapore,Singapore,6080860
+Qingdao,China,5986520
+Zhengzhou,China,5859270
+Jinan,China,5806030
+Abidjan,Ivory Coast,5686350
+Barcelona,Spain,5687360
+Yangon,Myanmar,5610240
+Addis Ababa,Ethiopia,5460590
+Alexandria,Egypt,5588480
+Saint Petersburg,Russia,5561290
+Nairobi,Kenya,5325160
+Chittagong,Bangladesh,5379660
+Guadalajara,Mexico,5419880
+Fukuoka,Japan,5490270
+Ankara,Turkey,5397100
+Hanoi,Vietnam,5253380
+Melbourne,Australia,5235410
+Monterrey,Mexico,5116650
+Sydney,Australia,5120890
+Changsha,China,4921490
+?r?mqi,China,4865040
+Cape Town,South Africa,4890280
+Jiddah,Saudi Arabia,4862940
+Brasília,Brazil,4873050
+Kunming,China,4761280
+Changchun,China,4710380
+Kabul,Afghanistan,4588670
+Hefei,China,4615760
+Yaounde,Cameroon,4509290
+Ningbo,China,4537900
+Shantou,China,4573710
+New Taipei,Taiwan,4504150
+Tel Aviv,Israel,4420860
+Kano,Nigeria,4348480
+Shijiazhuang,China,4370470
+Montreal,Canada,4307960
+Rome,Italy,4315670
+Jaipur,India,4207080
+Recife,Brazil,4263940
+Nanning,China,4191890
+Fortaleza,Brazil,4206240
+Kozhikode,India,4088560
+Porto Alegre,Brazil,4211930
+Taiyuan Shanxi,China,4145010
+Douala,Cameroon,4063200
+Ekurhuleni,South Africa,4118330
+Malappuram,India,4009090
+Medellín,Colombia,4102310
+Changzhou,China,3981660
+Kampala,Uganda,3846100
+Antananarivo,Madagascar,3872260
+Lucknow,India,3945410
+Abuja,Nigeria,3839650
+Nanchang,China,3920380
+Wenzhou,China,3919720
+Xiamen,China,3935480
+Ibadan,Nigeria,3874910
+Fuzhou,China,3922200
+Salvador,Brazil,3958380
+Casablanca,Morocco,3892840
+Tangshan Hebei,China,3814700
+Kumasi,Ghana,3768240
+Curitiba,Brazil,3813080
+Bekasi,Indonesia,3729350
+Faisalabad,Pakistan,3710840
+Los Angeles,United States,3820914
+Guiyang,China,3580900
+Port Harcourt,Nigeria,3480100
+Thrissur,India,3482460
+Santo Domingo,Dominican Republic,3523890
+Berlin,Germany,3573940
+Asuncion,Paraguay,3510510
+Dakar,Senegal,3429540
+Kochi,India,3406060
+Wuxi,China,3437350
+Busan,South Korea,3471950
+Campinas,Brazil,3422800
+Mashhad,Iran,3367850
+Sanaa,Yemen,3292500
+Puebla,Mexico,3344760
+Indore,India,3302080
+Lanzhou,China,3297530
+Ouagadougou,Burkina Faso,3203920
+Kuwait City,Kuwait,3297760
+Lusaka,Zambia,3181250
+Kanpur,India,3234160
+Durban,South Africa,3228000
+Guayaquil,Ecuador,3142470
+Pyongyang,North Korea,3157540
+Milan,Italy,3154570
+Guatemala City,Guatemala,3095100
+Athens,Greece,3154460
+Depok,Indonesia,3041230
+İzmir,Turkey,3088410
+Nagpur,India,3046690
+Surabaya,Indonesia,3044410
+Handan,China,3005410
+Coimbatore,India,3009050
+Huaian,China,2979890
+Port-au-Prince,Haiti,2987460
+Zhongshan,China,3010680
+Dubai,United Arab Emirates,3007580
+Bamako,Mali,2929370
+Mbuji-Mayi,DR Congo,2891750
+Kyiv,Ukraine,3016790
+Lisbon,Portugal,3000540
+Weifang,China,2917820
+Caracas,Venezuela,2972140
+Thiruvananthapuram,India,2891120
+Algiers,Algeria,2901810
+Shizuoka,Japan,2937360
+Lubumbashi,DR Congo,2811960
+Cali,Colombia,2863730
+Goiania,Brazil,2848470
+Pretoria,South Africa,2818100
+Shaoxing,China,2805650
+Incheon,South Korea,2848560
+Yantai,China,2764580
+Zibo,China,2780140
+Huizhou,China,2758590
+Manchester,United Kingdom,2791000
+Taipei,Taiwan,2754200
+Mogadishu,Somalia,2610480
+Brazzaville,Republic of the Congo,2637730
+Accra,Ghana,2660070
+Bandung,Indonesia,2674000
+Damascus,Syria,2584770
+Birmingham,United Kingdom,2665100
+Vancouver,Canada,2657090
+Toluca de Lerdo,Mexico,2626370
+Luoyang,China,2602790
+Sapporo,Japan,2666110
+Chicago,United States,2664452
+Tashkent,Uzbekistan,2603240
+Patna,India,2579760
+Bhopal,India,2564500
+Tangerang,Indonesia,2514080
+Nantong,China,2492230
+Brisbane,Australia,2504500
+Tunis,Tunisia,2475450
+Peshawar,Pakistan,2411780
+Medan,Indonesia,2439050
+Gujranwala,Pakistan,2415420
+Baku,Azerbaijan,2432300
+Hohhot,China,2380640
+San Juan,Puerto Rico,2439560
+Belem,Brazil,2409410
+Rawalpindi,Pakistan,2377320
+Agra,India,2367550
+Manaus,Brazil,2375640
+Kannur,India,2346140
+Beirut,Lebanon,2421350
+Maracaibo,Venezuela,2367630
+Liuzhou,China,2343450
+Visakhapatnam,India,2330930
+Baotou,China,2334880
+Vadodara,India,2324080
+Barranquilla,Colombia,2349400
+Phnom Penh,Cambodia,2281200
+Sendai,Japan,2342300
+Taoyuan,Taiwan,2318850
+Xuzhou,China,2287170
+Houston,United States,2314157
+Aleppo,Syria,2203020
+Tijuana,Mexico,2259790
+Isfahan,Iran,2258400
+Nashik,India,2237370
+Vijayawada,India,2229760
+Amman,Jordan,2232240
+Putian,China,2176020
+Multan,Pakistan,2154600
+Grande Vitoria,Brazil,2170510
+Wuhu,China,2124800
+Mecca,Saudi Arabia,2149930
+Kollam,India,2106610
+Naples,Italy,2179380
+Daegu,South Korea,2181000
+Conakry,Guinea,2110940
+Yangzhou,China,2131290
+Havana,Cuba,2148930
+Taizhou Zhejiang,China,2102140
+Baoding,China,2107540
+Perth,Australia,2118000
+Brussels,Belgium,2121990
+Linyi Shandong,China,2076360
+Bursa,Turkey,2086320
+Rajkot,India,2043110
+Minsk,Belarus,2057260
+Hiroshima,Japan,2067590
+Haikou,China,2016090
+Daqing,China,2000660
+Lome,Togo,1981620
+Lianyungang,China,1986440
+Yancheng Jiangsu,China,1993460
+Panama City,Panama,1976870
+Almaty,Kazakhstan,1987300
+Semarang,Indonesia,1975310
+Valencia,Venezuela,1983440
+Davao City,Philippines,1949400
+Vienna,Austria,1975270
+Rabat,Morocco,1959390
+Ludhiana,India,1951080
+Quito,Ecuador,1957000
+Benin City,Nigeria,1904630
+La Paz,Bolivia,1935620
+Baixada Santista,Brazil,1947780
+West Yorkshire,United Kingdom,1928660
+Can Tho,Vietnam,1865170
+Zhuhai,China,1889830
+Leon de los Aldamas,Mexico,1898750
+Quanzhou,China,1869990
+Matola,Mozambique,1852400
+Datong,China,1873690
+Sharjah,United Arab Emirates,1830860
+Madurai,India,1834280
+Raipur,India,1816810
+Adana,Turkey,1835900
+Santa Cruz,Bolivia,1820110
+Palembang,Indonesia,1818420
+Mosul,Iraq,1792020
+Cixi,China,1788870
+Meerut,India,1797800
+Gaziantep,Turkey,1804700
+La Laguna,Mexico,1780590
+Batam,Indonesia,1748140
+Turin,Italy,1801940
+Warsaw,Poland,1797520
+Jiangmen,China,1768510
+Varanasi,India,1754420
+Hamburg,Germany,1787520
+Montevideo,Uruguay,1774400
+Budapest,Hungary,1778050
+Lyon,France,1761190
+Xiangyang,China,1742710
+Bucharest,Romania,1776380
+Yichang,China,1711240
+Yinchuan,China,1716590
+Shiraz,Iran,1720950
+Kananga,DR Congo,1664440
+Srinagar,India,1698280
+Monrovia,Liberia,1678020
+Tiruppur,India,1677170
+Jamshedpur,India,1695060
+Suqian,China,1664970
+Aurangabad,India,1683390
+Qinhuangdao,China,1680960
+Stockholm,Sweden,1700070
+Anshan,China,1689500
+Glasgow,United Kingdom,1698090
+Xining,China,1666600
+Makassar,Indonesia,1673090
+Hengyang,China,1661850
+Novosibirsk,Russia,1694760
+Ulaanbaatar,Mongolia,1672630
+Onitsha,Nigeria,1623380
+Jilin,China,1668780
+Anyang,China,1642350
+Auckland,New Zealand,1673220
+Tabriz,Iran,1660740
+Muscat,Oman,1650320
+Calgary,Canada,1639610
+Phoenix,United States,1650070
+Qiqihaer,China,1635460
+N-Djamena,Chad,1592320
+Marseille,France,1627550
+Cordoba,Argentina,1611650
+Jodhpur,India,1586550
+Kathmandu,Nepal,1571010
+Rosario,Argentina,1594100
+Tegucigalpa,Honduras,1568020
+Ciudad Juarez,Mexico,1582310
+Harare,Zimbabwe,1578130
+Karaj,Iran,1593610
+Medina,Saudi Arabia,1572570
+Jining Shandong,China,1569560
+Abu Dhabi,United Arab Emirates,1567000
+Munich,Germany,1576420
+Ranchi,India,1547260
+Daejeon,South Korea,1577440
+Zhangjiakou,China,1536170
+Edmonton,Canada,1544450
+Mandalay,Myanmar,1531860
+Kaohsiung,Taiwan,1552900
+Kota,India,1516800
+Natal,Brazil,1535320
+Nouakchott,Mauritania,1491960
+Jabalpur,India,1522120
+Huainan,China,1512670
+Grande Sao Luis,Brazil,1523630
+Asansol,India,1505030
+Philadelphia,United States,1550542
+Yekaterinburg,Russia,1527730
+Gwangju,South Korea,1529470
+Yiwu,China,1483320
+Chaozhou,China,1496300
+San Antonio,United States,1495295
+Gwalior,India,1475020
+Ganzhou,China,1459680
+Homs,Syria,1443430
+Niamey,Niger,1437230
+Mombasa,Kenya,1440400
+Allahabad,India,1465150
+Basra,Iraq,1448120
+Kisangani,DR Congo,1423400
+San Jose,Costa Rica,1461990
+Amritsar,India,1451750
+Taizhou Jiangsu,China,1446810
+Chon Buri,Thailand,1454220
+Jiaxing,China,1424980
+Weihai,China,1429320
+Hai Phong,Vietnam,1422970
+Ottawa,Canada,1437190
+Zurich,Switzerland,1431540
+Taian Shandong,China,1416060
+Queretaro,Mexico,1413470
+Joao Pessoa,Brazil,1421830
+Kaifeng,China,1398260
+Cochabamba,Bolivia,1400250
+Konya,Turkey,1407630
+Liuyang,China,1373520
+Liuan,China,1378080
+Rizhao,China,1391260
+Kharkiv,Ukraine,1421050
+Dhanbad,India,1389780
+Nanchong,China,1377570
+Dongying,China,1379380
+Belgrade,Serbia,1408140
+Zunyi,China,1376450
+Zhanjiang,China,1372000
+Bucaramanga,Colombia,1381500
+Uyo,Nigeria,1329280
+Copenhagen,Denmark,1381000
+San Diego,United States,1388320
+Shiyan,China,1354020
+Taichung,Taiwan,1369070
+Bareilly,India,1348660
+Pointe-Noire,Republic of the Congo,1336390
+Adelaide,Australia,1366780
+Suweon,South Korea,1365350
+Mwanza,Tanzania,1310750
+Mianyang Sichuan,China,1351380
+Samut Prakan,Thailand,1358870
+Maceio,Brazil,1363510
+Qom,Iran,1354170
+Antalya,Turkey,1347240
+Joinville,Brazil,1348520
+Tengzhou,China,1322920
+Yingkou,China,1323170
+Ad-Dammam,Saudi Arabia,1329290
+Tanger,Morocco,1314180
+Freetown,Sierra Leone,1309170
+Helsinki,Finland,1337790
+Aligarh,India,1312370
+Moradabad,India,1301740
+Pekan Baru,Indonesia,1303360
+Maoming,China,1303900
+Lilongwe,Malawi,1276320
+Porto,Portugal,1324650
+Prague,Czech Republic,1323340
+Astana,Kazakhstan,1291280
+Jieyang,China,1282480
+Fushun Liaoning,China,1304560
+Mysore,India,1288240
+Abomey-Calavi,Benin,1252890
+Ruian,China,1281790
+Fes,Morocco,1290040
+Port Elizabeth,South Africa,1295930
+Florianopolis,Brazil,1294490
+Ahvaz,Iran,1293620
+Bukavu,DR Congo,1248780
+Dallas,United States,1302868
+Nnewi,Nigeria,1239190
+Kazan,Russia,1291880
+Jinhua,China,1257940
+San Luis Potosi,Mexico,1273320
+Baoji,China,1261080
+Durg-Bhilainagar,India,1266030
+Bhubaneswar,India,1257640
+Kigali,Rwanda,1247550
+Sofia,Bulgaria,1288110
+Pingdingshan Henan,China,1256580
+Dublin,Ireland,1270170
+Puning,China,1254160
+Chifeng,China,1252410
+Zhuzhou,China,1254520
+Bujumbura,Burundi,1206770
+Zhenjiang Jiangsu,China,1250670
+Liupanshui,China,1230640
+Barquisimeto,Venezuela,1254190
+Islamabad,Pakistan,1232450
+Huaibei,China,1236270
+Tasikmalaya,Indonesia,1213780
+Maracay,Venezuela,1242940
+Bogor,Indonesia,1231440
+Da Nang,Vietnam,1220630
+Nanyang Henan,China,1224630
+Nizhny Novgorod,Russia,1251330
+Xiangtan Hunan,China,1223910
+Pizhou,China,1207280
+Tiruchirappalli,India,1221960
+Chelyabinsk,Russia,1240930
+Mendoza,Argentina,1226430
+Luohe,China,1197940
+Xiongan,China,1183040
+Chandigarh,India,1214780
+Merida,Mexico,1220600
+Jinzhou,China,1215380
+Benxi,China,1216850
+Binzhou,China,1200220
+Aba,Nigeria,1188800
+Chiang Mai,Thailand,1213350
+Bazhong,China,1175990
+Quetta,Pakistan,1190350
+Kaduna,Nigeria,1187400
+Guilin,China,1196840
+Saharanpur,India,1171690
+Hubli-Dharwad,India,1181190
+Yueqing,China,1169860
+Guwahati,India,1176330
+Mexicali,Mexico,1178480
+Salem,India,1169950
+Maputo,Mozambique,1162790
+Tripoli,Libya,1183290
+Haifa,Israel,1174430
+Bandar Lampung,Indonesia,1162240
+Bobo-Dioulasso,Burkina Faso,1128650
+Amsterdam,Netherlands,1174020
+Shimkent,Kazakhstan,1155070
+Omsk,Russia,1180740
+Aguascalientes,Mexico,1161450
+Hargeysa,Somalia,1127200
+Krasnoyarsk,Russia,1166790
+Xinxiang,China,1140600
+Siliguri,India,1126250
+Wenling,China,1131360
+Samara,Russia,1155730
+Zaozhuang,China,1133630
+Cologne,Germany,1143720
+Yongin,South Korea,1135670
+Ufa,Russia,1144800
+Fuyang,China,1120690
+Ikorodu,Nigeria,1093310
+Bien Hoa,Vietnam,1110820
+Jalandhar,India,1118830
+Panjin,China,1120680
+Ma'anshan,China,1112680
+Cuernavaca,Mexico,1123840
+Rostov-on-Don,Russia,1138850
+Chihuahua,Mexico,1116300
+Fuzhou Jiangxi,China,1100270
+Tshikapa,DR Congo,1077110
+Shangrao,China,1106740
+Samarinda,Indonesia,1100320
+Bishkek,Kyrgyzstan,1104740
+Zhaoqing,China,1103200
+San Salvador,El Salvador,1116050
+Yichun Jiangxi,China,1078630
+Chenzhou,China,1084970
+Sekondi Takoradi,Ghana,1077930
+Leshan,China,1087410
+Aden,Yemen,1079670
+Goyang,South Korea,1105280
+Diyarbakir,Turkey,1096940
+Asmara,Eritrea,1072670
+Dezhou,China,1080680
+Jingzhou Hubei,China,1089890
+Managua,Nicaragua,1094510
+Johor Bahru,Malaysia,1086210
+Kermanshah,Iran,1084620
+Nyala,Sudan,1056950
+Oslo,Norway,1085990
+Kirkuk,Iraq,1074880
+Yerevan,Armenia,1094810
+Cartagena,Colombia,1087600
+Changshu,China,1059900
+Huzhou,China,1067650
+Xuchang,China,1063880
+Solapur,India,1070320
+Lille,France,1079120
+Mersin,Turkey,1069400
+Tbilisi,Georgia,1082240
+Perm,Russia,1081770
+Voronezh,Russia,1080810
+Denpasar,Indonesia,1053040
+Toulouse,France,1060460
+Blantyre-Limbe,Malawi,1030970
+Aracaju,Brazil,1056990
+Marrakech,Morocco,1049690
+Qujing,China,1038960
+Yueyang,China,1048890
+Ilorin,Nigeria,1030500
+Tampico,Mexico,1047250
+Antwerp,Belgium,1057220
+Teresina,Brazil,1050460
+Guiping,China,1020400
+Warangal,India,1031090
+Changwon,South Korea,1054440
+Padang,Indonesia,1033640
+Saltillo,Mexico,1034130
+Xintai,China,1023760
+Cancun,Mexico,1022600
+Cebu City,Philippines,1024940
+San Miguel de Tucuman,Argentina,1026770
+Hamah,Syria,995747
+Acapulco de Juarez,Mexico,1018980
+Warri,Nigeria,986921
+Kayseri,Turkey,1013240
+Chengde,China,993097
+Owerri,Nigeria,983352
+Rotterdam,Netherlands,1018010
+Pingxiang Jiangxi,China,999721
+Zhucheng,China,991208
+Songkhla,Thailand,1005010
+Valparaiso,Chile,1008600
+Dehradun,India,991876
+Nonthaburi,Thailand,1000950
+Leiyang,China,978327
+Dushanbe,Tajikistan,986899
+Nampula,Mozambique,969322
+Misratah,Libya,984193
+Krasnodar,Russia,1001160
+Laiwu,China,986248
+Bordeaux,France,1000480
+Jixi Heilongjiang,China,993175
+San Pedro Sula,Honduras,982021
+Odesa,Ukraine,1007720
+Jiujiang,China,982777
+Lubango,Angola,958548
+Morelia,Mexico,988744
+Jos,Nigeria,970129
+Sylhet,Bangladesh,964291
+Agadir,Morocco,979248
+Jacksonville,United States,985843
+Fort Worth,United States,978468
+Volgograd,Russia,995078
+Mudanjiang,China,975348
+Guigang,China,967428
+Najaf,Iraq,958487
+Bangui,Central African Republic,958335
+Austin,United States,979882
+Rajshahi,Bangladesh,961991
+Hengshui,China,955663
+Jerusalem,Israel,969804
+Zhangzhou,China,955519
+Xinyu,China,952278
+Linfen,China,951822
+Tianmen,China,953768
+Ciudad Guayana,Venezuela,964266
+Zamboanga City,Philippines,960349
+Yangjiang,China,956079
+Taiz,Yemen,940600
+Cucuta,Colombia,963045
+Arequipa,Peru,958998
+Liling,China,936997
+Antipolo,Philippines,946653
+Veracruz,Mexico,955226
+Reynosa,Mexico,951417
+Khulna,Bangladesh,955104
+Deyang,China,939166
+Pathum Thani,Thailand,950048
+Bengbu,China,944465
+Jiangyin,China,933395
+Southampton,United Kingdom,951531
+Villahermosa,Mexico,943530
+Baishan,China,927532
+San Jose,United States,969655
+Nice,France,948149
+Oran,Algeria,935947
+West Rand,South Africa,934341
+Cabinda,Angola,904676
+Umuahia,Nigeria,904139
+Bogra,Bangladesh,905814
+Bahawalpur,Pakistan,919654
+Seongnam,South Korea,941508
+Guntur,India,918324
+Dnipro,Ukraine,941586
+Campo Grande,Brazil,926095
+Malang,Indonesia,919443
+Londrina,Brazil,922425
+Dandong,China,917936
+Changzhi,China,910743
+Hermosillo,Mexico,915060
+Bhiwandi,India,906581
+La Plata,Argentina,914036
+Charlotte,United States,911311
+Liverpool,United Kingdom,917032
+Ashgabat,Turkmenistan,902353
+Concepcion,Chile,911862
+Puducherry,India,897983
+Changde,China,898338
+Bergamo,Italy,913376
+Firozabad,India,894388
+Erbil,Iraq,896716
+Tyumen,Russia,903815
+Trujillo,Peru,903896
+Liaoyang,China,900692
+Shangqiu,China,895111
+Columbus,United States,913175
+Ulsan,South Korea,912734
+Tuxtla Gutierrez,Mexico,897694
+Kuerle,China,875496
+Soshanguve,South Africa,892254
+Xingtai,China,886381
+Culiacan,Mexico,888620
+Quzhou,China,871457
+Cherthala,India,870465
+Huangshi,China,876930
+Fuxin,China,876131
+Lokoja,Nigeria,839046
+Hufuf-Mubarraz,Saudi Arabia,872438
+Libreville,Gabon,869773
+Yongzhou,China,860522
+Xinghua,China,861978
+Donetsk,Ukraine,887716
+Yibin,China,864910
+Indianapolis,United States,879293
+Enugu,Nigeria,846560
+Tainan,Taiwan,869625
+Xinyang,China,855191
+Ipoh,Malaysia,857225
+Luzhou,China,857683
+Banghazi,Libya,859209
+Maiduguri,Nigeria,844747
+Yangquan,China,851630
+Huaihua,China,843754
+Xiaogan,China,849580
+Tianshui,China,837479
+Bunia,DR Congo,812090
+Bozhou,China,830125
+Kottayam,India,818628
+Zhuji,China,834782
+Kunshan,China,826414
+Quebec City,Canada,844249
+Palermo,Italy,849687
+Winnipeg,Canada,841108
+Orumiyeh,Iran,835900
+Eskisehir,Turkey,834065
+Benguela,Angola,809468
+Jincheng,China,818057
+Valencia,Spain,838301
+Heze,China,826777
+Saratov,Russia,838377
+Nellore,India,816293
+Huludao,China,821132
+Zanzibar,Tanzania,800010
+Barcelona Puerto La Cruz,Venezuela,825581
+Bikaner,India,818566
+Haicheng,China,821192
+Gebze,Turkey,813394
+Taixing,China,811451
+Liaocheng,China,813369
+Zhumadian,China,804537
+Newcastle upon Tyne,United Kingdom,823431
+Langfang,China,807833
+Bucheon,South Korea,826981
+Sulaimaniya,Iraq,800793
+Xalapa,Mexico,811041
+Malanje,Angola,783243
+Anqiu,China,791931
+Sorocaba,Brazil,813320
+Gaomi,China,797964
+Dasmarinas,Philippines,802600
+Cagayan de Oro City,Philippines,803194
+Hanchuan,China,795835
+Meishan,China,796756
+Bologna,Italy,814332
+Ar-Rayyan,Qatar,798382
+Thessaloniki,Greece,814524
+Muzaffarnagar,India,791214
+Kayamkulam,India,786192
+Nottingham,United Kingdom,806757
+Nakhon Ratchasima,Thailand,801853
+Danyang,China,789755
+Ibb,Yemen,771514
+Amravati,India,792620
+Jiaozuo,China,796509
+Vereeniging,South Africa,793927
+Gorakhpur,India,788276
+Gaza,Palestine,778187
+Frankfurt,Germany,796437
+Anqing,China,779535
+Niigata,Japan,797865
+Oshogbo,Nigeria,771515
+Linhai,China,776076
+Shaoguan,China,784230
+Erduosi-Ordoss,China,774321
+Merca,Somalia,760129
+Bur Sa'id,Egypt,778280
+Kitwe,Zambia,762981
+Yan'an,China,767188
+Cuttack,India,775559
+San Francisco,United States,808988
+Hamilton,Canada,781047
+Zaria,Nigeria,766007
+Banjarmasin,Indonesia,770959
+Dengzhou,China,759150
+Belgaum,India,767161
+Malegaon,India,764628
+Goma,DR Congo,744247
+Zigong,China,768075
+Qingyuan,China,766782
+Yuncheng,China,754711
+Shaoyang,China,761169
+Yanji,China,757224
+Tirupati,India,752744
+Maturin,Venezuela,758185
+Yuxi,China,750102
+Akure,Nigeria,744371
+Tongliao,China,756158
+Sialkot,Pakistan,753325
+Tongling,China,752916
+Krakow,Poland,769417
+Ansan,South Korea,766703
+Wuzhou,China,751679
+Dazhou,China,748257
+Suining Sichuan,China,750097
+Mangalore,India,749073
+Jiamusi,China,749763
+Seattle,United States,755078
+Al-Hudaydah,Yemen,734699
+Sargodha,Pakistan,741818
+Nay Pyi Taw,Myanmar,722836
+Tamale,Ghana,729768
+Sao Jose dos Campos,Brazil,749188
+Bacoor,Philippines,739682
+Dongtai,China,738200
+Zhangjiagang,China,733810
+Nanded Waghala,India,738552
+Xianyang Shaanxi,China,743491
+Amara,Iraq,729276
+Zarqa,Jordan,748428
+Bhavnagar,India,737128
+Sheffield,United Kingdom,745876
+Huambo,Angola,727641
+Ribeirao Preto,Brazil,742115
+Panzhihua,China,738495
